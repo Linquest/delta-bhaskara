@@ -33,4 +33,4 @@ Procedimento:
 Uma lógica que faça o cálculo necessário seguindo a fórmula. Utilize da função anterior delta para calcular o delta separadamente.
 <br>
 Retorno:<br>
-Caso o delta seja negativo, a função deve retornar uma string 'Delta Negativo'. Caso o delta seja positivo, a função de retornar as duas raízes com arredondamento de 2 casas decimais, seguindo o exemplo de formatação abaixo:
+Caso o delta seja negativo, a função deve retornar uma string 'Delta Negativo'. Caso o delta seja positivo, a função de retornar as duas raízes com arredondamento de 2 casas decimais.
